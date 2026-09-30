@@ -2,6 +2,8 @@
 
 yol-izi, ziyaret edilen şehirleri harita üzerinde kaydetmek, anı eklemek ve geçmiş yolculukları yönetmek için geliştirilmiş bir web uygulamasıdır.
 
+![yol-izi uygulama önizlemesi](docs/preview.png)
+
 ## Özellikler
 
 - Gezi ekleme, düzenleme ve silme
