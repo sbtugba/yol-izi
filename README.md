@@ -35,8 +35,6 @@ Uygulama varsayılan olarak `http://127.0.0.1:5173/` adresinde açılır.
 ```bash
 npm run dev           # geliştirme sunucusu
 npm run build         # üretim derlemesi
-npm run format        # kod biçimlendirme
-npm run format:check  # biçim denetimi
 ```
 
 ## Veri ve gizlilik
