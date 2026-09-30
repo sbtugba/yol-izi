@@ -45,4 +45,4 @@ Gezi kayıtları yalnızca kullanıcının kendi tarayıcısındaki `localStorag
 
 ## Lisans ve kaynaklar
 
-Şehir verileri için GeoNames verisi kullanılır. Ayrıntılar [public/data/README.md](public/data/README.md) dosyasında yer alır.
+Şehir verileri için GeoNames verisi kullanılır. Ayrıntılar [public/data/ATTRIBUTION.md](public/data/ATTRIBUTION.md) dosyasında yer alır.
