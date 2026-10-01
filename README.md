@@ -8,11 +8,9 @@ yol-izi, ziyaret edilen şehirleri harita üzerinde kaydetmek, anı eklemek ve g
 
 - Gezi ekleme, düzenleme ve silme
 - Şehir, ülke, tarih, not, puan ve fotoğraf bağlantısı kaydı
-- Tek harften başlayan şehir önerileri
 - 3B dünya üzerinde gezi konumları
 - Gezi arama ve detay görüntüleme
 - Verileri tarayıcının yerel depolamasında saklama
-- Mobil ekranlara uyumlu arayüz
 
 ## Kullanılan teknolojiler
 
